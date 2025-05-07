@@ -4,8 +4,8 @@ Robot arm project
 ....
 CAD:
 
-![alt text](https://i.imgur.com/gVJ1zBk.png) 
-![alt text](https://i.imgur.com/n4owr1C.png) 
+![alt text](https://i.imgur.com/ilhtUTC.png) 
+![alt text](https://i.imgur.com/PupZhzg.png) 
 
 ....
 PCB for robot arm:
