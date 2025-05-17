@@ -1,7 +1,5 @@
-Work in progress
+This project is under a MIT Lisence.
 
-Robot arm project
-....
 CAD:
 
 ![alt text](https://i.imgur.com/ilhtUTC.png) 
