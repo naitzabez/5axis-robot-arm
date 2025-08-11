@@ -1,3 +1,4 @@
+Bachelors thesis project, TIEDB programme at KTH
 This project is under a MIT Lisence.
 
 CAD:
